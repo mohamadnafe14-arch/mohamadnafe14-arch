@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2544,100:141a2e&height=130&section=header&text=Mohamed%20Nafe&fontSize=42&fontColor=f4f1ea&fontAlignY=38&desc=Flutter%20%26%20Mobile%20Developer&descSize=18&descColor=5eead4&descAlignY=62" width="100%" alt="Mohamed Nafe — Flutter & Mobile Developer" />
+
 
 <a href="mailto:mohamednafe973@gmail.com"><img src="https://img.shields.io/badge/Email-mohamednafe973%40gmail.com-141a2e?style=for-the-badge&logo=gmail&logoColor=5eead4&labelColor=1c2544" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mohamed-nafe-4ab7813a0/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Nafe-141a2e?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=1c2544" alt="LinkedIn" /></a>
@@ -155,12 +155,20 @@ Structured learning with [Tharwat Academy](https://tharwatacademy.com/):
 
 <div align="center">
 
+<img src="https://img.shields.io/github/followers/mohamadnafe14-arch?style=for-the-badge&logo=github&logoColor=5eead4&labelColor=1c2544&color=141a2e" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=mohamadnafe14-arch&style=for-the-badge&label=PROFILE%20VIEWS&color=141a2e&labelColor=1c2544" alt="Profile views" />
+
+<details>
+<summary><b>Show live stat cards</b> (third-party services — they can load slowly or fail)</summary>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=mohamadnafe14-arch&show_icons=true&hide_border=true&bg_color=141a2e&title_color=5eead4&icon_color=ff8f6b&text_color=f4f1ea" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com/?user=mohamadnafe14-arch&hide_border=true&background=141a2e&stroke=1c2544&ring=5eead4&fire=ff8f6b&currStreakLabel=5eead4&sideLabels=f4f1ea&currStreakNum=f4f1ea&sideNums=f4f1ea&dates=9aa5c9" height="165" alt="GitHub streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadnafe14-arch&layout=compact&hide_border=true&bg_color=141a2e&title_color=5eead4&text_color=f4f1ea&langs_count=8" height="165" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadnafe14-arch&bg_color=141a2e&color=5eead4&line=ff8f6b&point=f4f1ea&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</details>
 
 </div>
 
