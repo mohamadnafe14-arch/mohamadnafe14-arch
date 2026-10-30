@@ -44,7 +44,7 @@ class MohamedNafe extends Developer {
 - 💳  **Payment integration**, **Google Maps** and **Flutter Street Map**
 - 💾  Local storage: **SQLite**, **Hive** — apps that work offline too
 - ✅  **Unit / widget / integration tests**, TDD practices
-- 🎓  Computers & Information (IT), Third Year — **GPA 3.95 / 4.00**
+- 🎓  Computers & Information (IT), Fourth Year — **GPA 3.95 / 4.00**
 
 <br/>
 
