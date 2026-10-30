@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2544,100:141a2e&height=130&section=header&text=Mohamed%20Nafe&fontSize=42&fontColor=f4f1ea&fontAlignY=38&desc=Flutter%20%26%20Mobile%20Developer&descSize=18&descColor=5eead4&descAlignY=62" width="100%" alt="Mohamed Nafe — Flutter & Mobile Developer" />
 
-
-<a href="https://mail.google.com/mail/?view=cm&amp;to=mohamednafe973@gmail.com"><img src="https://img.shields.io/badge/Email-mohamednafe973%40gmail.com-141a2e?style=for-the-badge&amp;logo=gmail&amp;logoColor=5eead4&amp;labelColor=1c2544" /></a>
-<a href="https://www.linkedin.com/in/mohamed-nafe-4ab7813a0/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Nafe-141a2e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5eead4&amp;labelColor=1c2544" /></a>
-<a href="https://github.com/mohamadnafe14-arch"><img src="https://img.shields.io/badge/Cairo-Egypt-141a2e?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=ff8f6b&amp;labelColor=1c2544" /></a>
+<a href="mailto:mohamednafe973@gmail.com"><img src="https://img.shields.io/badge/Email-mohamednafe973%40gmail.com-141a2e?style=for-the-badge&logo=gmail&logoColor=5eead4&labelColor=1c2544" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohamed-nafe-4ab7813a0/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Nafe-141a2e?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=1c2544" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Cairo-Egypt-141a2e?style=for-the-badge&logo=googlemaps&logoColor=ff8f6b&labelColor=1c2544" alt="Location: Cairo, Egypt" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Flutter+%2B+Dart+%C2%B7+BLoC%2FCubit+%C2%B7+Clean+Architecture;Firebase+%C2%B7+Supabase+%C2%B7+REST+APIs;Building+apps+people+actually+keep+on+their+phones." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=620&lines=Flutter+%2B+Dart+%C2%B7+BLoC%2FCubit+%C2%B7+Clean+Architecture;Firebase+%C2%B7+Supabase+%C2%B7+REST+APIs+%C2%B7+Payments;Building+apps+people+actually+keep+on+their+phones." alt="Typing SVG" />
 
 </div>
 
@@ -21,24 +21,40 @@ not just screens that look good in a demo. Every project is structured around
 **Clean Architecture** and **SOLID principles**, with **BLoC/Cubit** or **Provider**
 handling state, so features can grow without the codebase turning into spaghetti.
 
+Right now I'm a **Flutter Developer Intern at Huma Volve**, working with Google Maps,
+Flutter Street Map and payment integration in production-style mobile apps.
+
 ```dart
 class MohamedNafe extends Developer {
   final String role = 'Flutter & Mobile Developer';
+  final String currently = 'Flutter Developer Intern @ Huma Volve';
   final String location = 'Cairo, Egypt';
   final double gpa = 3.95;
   final List<String> stack = ['Flutter', 'Dart', 'Firebase', 'Supabase', 'BLoC/Cubit'];
-  final List<String> languages = ['Arabic (native)', 'English (C2)', 'French (A2)'];
+  final List<String> languages = ['Arabic (native)', 'English (B2)', 'French (A2)'];
 
   @override
   Future<void> buildSomethingGreat() async => await ship(withTests: true);
 }
 ```
 
+- 🏗️  **Clean Architecture**, **MVVM**, **SOLID** — code that scales and stays testable
 - 🔄  State management with **BLoC / Cubit** and **Provider**
 - 🔌  Backends: **Firebase (Auth, Firestore)**, **Supabase**, **REST APIs**
+- 💳  **Payment integration**, **Google Maps** and **Flutter Street Map**
 - 💾  Local storage: **SQLite**, **Hive** — apps that work offline too
 - ✅  **Unit / widget / integration tests**, TDD practices
 - 🎓  Computers & Information (IT), Third Year — **GPA 3.95 / 4.00**
+
+<br/>
+
+## 💼 Experience
+
+| When | Role | Where |
+| --- | --- | --- |
+| **Oct 2026 – Present** | Flutter Developer Intern — Google Maps, Flutter Street Map, payment integration | Huma Volve |
+| **Jul – Aug 2025** | Android Development Intern — intensive native Android program | Information Technology Institute (ITI) |
+| **Jul – Sep 2024** | Flutter Development Intern — Flutter & Dart features under mentorship | College Internship Program |
 
 <br/>
 
@@ -46,15 +62,31 @@ class MohamedNafe extends Developer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,java,python,cpp,git,github,html,css&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,androidstudio,kotlin,java,python,cpp,postman,git,github,html,css&theme=dark" alt="Tech stack icons" />
 
 </div>
 
 <br/>
 
-## 📱 Pinned projects
+## 📱 Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [Payment Integration App](https://github.com/mohamadnafe14-arch/payment) `NEW`
+Flutter app demonstrating payment gateway integration and payment workflows, with a structured, maintainable codebase.
+<br/>`Flutter` `Payment Integration`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Spotify Clone — [Flutter client](https://github.com/mohamadnafe14-arch/spotify-clone-flutter-) · [Backend](https://github.com/mohamadnafe14-arch/spotify-clone-backend-)
+Full-stack, Spotify-inspired streaming app: authentication, search, playlists and audio playback on a custom backend.
+<br/>`Flutter` `Custom API` `Modular architecture`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -82,8 +114,8 @@ Expense tracker with Firebase integration, category management & analytics.
 <td width="50%" valign="top">
 
 ### ✍️ [Blog-App](https://github.com/mohamadnafe14-arch/Blog-App)
-Full-featured blogging app — auth, posts, image uploads, offline caching via Supabase.
-<br/>`Flutter` `Supabase` `Clean Architecture`
+Full-featured blogging app — auth, posts, category filtering, image uploads, offline caching via Supabase.
+<br/>`Flutter` `Supabase` `Clean Architecture` `BLoC`
 
 </td>
 </tr>
@@ -107,16 +139,28 @@ Older builds, experiments, and console apps live in my repo list.
 
 <br/>
 
+## 🎓 Courses
+
+Structured learning with [Tharwat Academy](https://tharwatacademy.com/):
+
+- [Complete Flutter & Dart Development Course](https://tharwatacademy.com/courses/fluttercourseforbeginners/)
+- [Flutter Advanced Course: Bloc and MVVM Pattern](https://tharwatacademy.com/courses/flutter-advanced-course-bloc-and-mvvm-pattern-arabic/)
+- [Mastering Flutter: Responsive & Adaptive UI Design](https://tharwatacademy.com/courses/mastering-programming-a-comprehensive-course-in-arabic/)
+- [Deep Dive into Clean Architecture in Flutter](https://tharwatacademy.com/courses/deep-dive-into-clean-architecture-in-flutterarabic/)
+- [Flutter Payment Integration: Stripe, PayPal & More](https://tharwatacademy.com/courses/flutter-payment-integration-stripe-paypal-more-arabic/)
+
+<br/>
+
 ## 📊 GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamadnafe14-arch&amp;show_icons=true&amp;hide_border=true&amp;bg_color=141a2e&amp;title_color=5eead4&amp;icon_color=ff8f6b&amp;text_color=f4f1ea&amp;count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadnafe14-arch&amp;hide_border=true&amp;background=141a2e&amp;stroke=1c2544&amp;ring=5eead4&amp;fire=ff8f6b&amp;currStreakLabel=5eead4&amp;sideLabels=f4f1ea&amp;currStreakNum=f4f1ea&amp;sideNums=f4f1ea&amp;dates=9aa5c9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamadnafe14-arch&show_icons=true&hide_border=true&bg_color=141a2e&title_color=5eead4&icon_color=ff8f6b&text_color=f4f1ea" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=mohamadnafe14-arch&hide_border=true&background=141a2e&stroke=1c2544&ring=5eead4&fire=ff8f6b&currStreakLabel=5eead4&sideLabels=f4f1ea&currStreakNum=f4f1ea&sideNums=f4f1ea&dates=9aa5c9" height="165" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadnafe14-arch&amp;layout=compact&amp;hide_border=true&amp;bg_color=141a2e&amp;title_color=5eead4&amp;text_color=f4f1ea&amp;langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadnafe14-arch&layout=compact&hide_border=true&bg_color=141a2e&title_color=5eead4&text_color=f4f1ea&langs_count=8" height="165" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadnafe14-arch&amp;bg_color=141a2e&amp;color=5eead4&amp;line=ff8f6b&amp;point=f4f1ea&amp;hide_border=true&amp;area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadnafe14-arch&bg_color=141a2e&color=5eead4&line=ff8f6b&point=f4f1ea&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -124,9 +168,10 @@ Older builds, experiments, and console apps live in my repo list.
 
 ## 🌱 Currently
 
-- Building deeper into **offline-first architecture** with Hive & Supabase sync
-- Sharpening **testing practices** — unit, widget, and integration coverage on every new repo
-- Open to **Flutter freelance work** and **junior mobile developer roles**
+- 💼 Interning as a **Flutter Developer at Huma Volve**
+- 🔬 Building deeper into **offline-first architecture** with Hive & Supabase sync
+- 🧪 Sharpening **testing practices** — unit, widget, and integration coverage on every new repo
+- 📬 Open to **Flutter freelance work** and **junior mobile developer roles**
 
 <br/>
 
@@ -134,9 +179,9 @@ Older builds, experiments, and console apps live in my repo list.
 
 ### 📫 Let's build something
 
-<a href="https://mail.google.com/mail/?view=cm&amp;to=mohamednafe973@gmail.com"><img src="https://img.shields.io/badge/Email%20me-141a2e?style=for-the-badge&amp;logo=maildotru&amp;logoColor=5eead4&amp;labelColor=1c2544" /></a>
-<a href="https://www.linkedin.com/in/mohamed-nafe-4ab7813a0/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-141a2e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5eead4&amp;labelColor=1c2544" /></a>
+<a href="mailto:mohamednafe973@gmail.com"><img src="https://img.shields.io/badge/Email%20me-141a2e?style=for-the-badge&logo=maildotru&logoColor=5eead4&labelColor=1c2544" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/mohamed-nafe-4ab7813a0/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-141a2e?style=for-the-badge&logo=linkedin&logoColor=5eead4&labelColor=1c2544" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1c2544,100:141a2e&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2544,100:141a2e&height=100&section=footer" width="100%" alt="" />
 
 </div>
